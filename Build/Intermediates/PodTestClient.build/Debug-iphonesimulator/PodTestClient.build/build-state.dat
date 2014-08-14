@@ -1,0 +1,665 @@
+TPodTestClient
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch.pch PodTestDemo/PodTestClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.o /Users/LIUDUO/iOS/PodTestDemo/PodTestClient/PodTestClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/AppDelegate.o /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/main.o /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient normal i386
+cCopyStringsFile /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/en.lproj/InfoPlist.strings PodTestDemo/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/Images.xcassets
+cProcessInfoPlistFile /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/Info.plist /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/PodTestClient-Info.plist
+cGenerateDSYMFile /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app.dSYM /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient
+cTouch /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053539C8A00000000000003B4
+t1397988490
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053539C90000000000000019E
+t1397988496
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053539C92000000000058E0E0
+t1397988498
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000053539C9200000000005B82F0
+t1397988498
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053539C920000000000446820
+t1397988498
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000053539C9300000000003599D0
+t1397988499
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000053539C9300000000002FC3B0
+t1397988499
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000053539C93000000000004B000
+t1397988499
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053539C94000000000088D8C0
+t1397988500
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000053539C950000000000037680
+t1397988501
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053539C96000000000048F720
+t1397988502
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053539C96000000000013FD70
+t1397988502
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053539C980000000001F1DE10
+t1397988504
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000053539CA200000000002BC360
+t1397988514
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c0000000053539CA90000000000002338
+t1397988521
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000053539CAA000000000008D370
+t1397988522
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c0000000053539CAA0000000000392E20
+t1397988522
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005380BC0300000000000141F0
+t1400945667
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c0000000053539CAA0000000000014A80
+t1397988522
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000053539CAA0000000000033BA0
+t1397988522
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000053539CAA000000000001CFB0
+t1397988522
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000053539CAA000000000001B2B0
+t1397988522
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c0000000053539CAA00000000000C9570
+t1397988522
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c0000000053539CAA0000000000063280
+t1397988522
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000053539CAA0000000000008880
+t1397988522
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000053539CAA0000000000015080
+t1397988522
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000053539CAA00000000000230F0
+t1397988522
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000053539CAA000000000000E380
+t1397988522
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c0000000053539CAA0000000000089380
+t1397988522
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c0000000053539CAA0000000000017320
+t1397988522
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000053539CAA0000000000039CD0
+t1397988522
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000053539CAA000000000000B0B0
+t1397988522
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000053539CAA0000000000167E80
+t1397988522
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000053539CAA00000000000106A0
+t1397988522
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000053539CAA000000000001CE40
+t1397988522
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000053539CAA00000000000740C0
+t1397988522
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053539CAA000000000006CA60
+t1397988522
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000053539CAA000000000001BAD0
+t1397988522
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c0000000053539CAA0000000000084A20
+t1397988522
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053539CBD0000000000000ADC
+t1397988541
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053539CBD000000000000514C
+t1397988541
+s20812
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/AppDelegate.o
+t1408039187
+s63908
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.LinkFileList
+c0000000053ECF91200000000000001B1
+t1408039186
+s433
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.o
+t1408039187
+s5112
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/main.o
+t1408039187
+s3516
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/assetcatalog_dependencies.txt
+t1408039189
+s371
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/assetcatalog_generated_info.plist
+t1408039189
+s525
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch.pch
+t1408039187
+s121964
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app
+t1408039189
+s272
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app.dSYM
+t1408039189
+s102
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/Info.plist
+t1408039189
+s995
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PkgInfo
+t1408039189
+s8
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient
+t1408039187
+s17220
+
+N/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/en.lproj/InfoPlist.strings
+t1408039187
+s42
+
+N/Users/LIUDUO/iOS/PodTestDemo/PodTestClient/PodTestClient.h
+c0000000053ECF8F800000000000000F4
+t1408039160
+s244
+
+N/Users/LIUDUO/iOS/PodTestDemo/PodTestClient/PodTestClient.m
+c0000000053ECF90B0000000000000114
+t1408039179
+s276
+
+N/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.h
+c0000000053ECF89D0000000000000112
+t1408039069
+s274
+
+N/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.m
+c0000000053ECF89D000000000000087D
+t1408039069
+s2173
+
+N/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/Images.xcassets
+c0000000053ECF89D0000000000000088
+t1408039069
+s136
+
+N/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/PodTestClient-Info.plist
+c0000000053ECF8A5000000000000048F
+t1408039077
+s1167
+
+N/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/PodTestClient-Prefix.pch
+c0000000053ECF89D0000000000000158
+t1408039069
+s344
+
+N/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/en.lproj/InfoPlist.strings
+c0000000053ECF89D000000000000002D
+t1408039069
+s45
+
+N/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/main.m
+c0000000053ECF89D000000000000014E
+t1408039069
+s334
+
+N/usr/lib/libSystem.B.dylib
+c000000005380BBE7000000000000E6D0
+t1400945639
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000529A3FD80000000000012A00
+t1385840600
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000529A3FB8000000000002E320
+t1385840568
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000529A3FC70000000000021860
+t1385840583
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053BCA3D6000000000001B610
+t1404871638
+s112144
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000529A3FD700000000000BD920
+t1385840599
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005380BC0300000000000141F0
+t1400945667
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000529A3FD8000000000000A120
+t1385840600
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053BCA3D6000000000001D550
+t1404871638
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000529A3FD70000000000014EE0
+t1385840599
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000529A3FD90000000000010380
+t1385840601
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000529A3FD9000000000000C4C0
+t1385840601
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000529A3FD800000000000357A0
+t1385840600
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000529A3FD8000000000000C070
+t1385840600
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000532069F30000000000168D00
+t1394633203
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005380BBFE0000000000010630
+t1400945662
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053BCA3D6000000000001DF10
+t1404871638
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000529A3FC70000000000075B00
+t1385840583
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053BCA3D6000000000007CD60
+t1404871638
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000529A3FC700000000000766C0
+t1385840583
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000053206A340000000000044DC0
+t1394633268
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000529A3FC70000000000021FA0
+t1385840583
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053206A34000000000002D920
+t1394633268
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000529A3FD8000000000001E570
+t1385840600
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053BCA3D6000000000000CC70
+t1404871638
+s52336
+
+N/usr/lib/system/libunc.dylib
+c00000000529A3FD1000000000000C3F0
+t1385840593
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000529A3FD800000000000199F0
+t1385840600
+s104944
+
+CBuild AST from /Users/LIUDUO/iOS/PodTestDemo/PodTestClient/PodTestClient.m
+r0
+
+CBuild AST from /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.m
+r0
+
+CBuild AST from /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb18be69a309db941^5324e79a309db941^---0#1#1#--18"Check dependencies36"EEFBCAE6-CAD5-42C4-9330-2D341C249023-
+
+CCompileAssetCatalog /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/Images.xcassets
+s429731987.357060
+e429731989.055274
+r1
+xCompileAssetCatalog
+x/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app
+x/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/LaunchImage-700-568h@2x.png
+o/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/Assets.car
+o/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/PodTestClient.app PodTestDemo/Images.xcassets102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/PodTestClient.app PodTestDemo/Images.xcassets64795b93309db941^70260e95309db941^-399"/* com.apple.actool.compilation-results *//Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/LaunchImage-700-568h@2x.png/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/Assets.car/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@65"file:///Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/Images.xcassets/0000000000000000^1137"CompileAssetCatalog Build/Products/Debug-iphonesimulator/PodTestClient.app PodTestDemo/Images.xcassets    cd /Users/LIUDUO/iOS/PodTestDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/Images.xcassets36"ADCADB28-DEB6-4546-98D7-FFAD080CE545-
+bD56FBCA3-449F-4A4F-B66D-F53FEE0EE50E
+
+CCompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/AppDelegate.o /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429731987.010020
+e429731987.137687
+r1
+xCompileC
+xBuild/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/AppDelegate.o
+x/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.m
+d/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.m218"CompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/AppDelegate.o PodTestDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd1b20293309db941^4a412393309db941^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.m0000000000000000^3690"CompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/AppDelegate.o PodTestDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LIUDUO/iOS/PodTestDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LIUDUO/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-generated-files.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-own-target-headers.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-all-target-headers.hmap -iquote /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-project-headers.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/DerivedSources/i386 -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/DerivedSources -F/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator -include /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch -MMD -MT dependencies -MF /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/AppDelegate.dia -c /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.m -o /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/AppDelegate.o36"9A226F0C-2737-42E7-B4AA-528393E22A01-
+bD56FBCA3-449F-4A4F-B66D-F53FEE0EE50E
+
+CCompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.o /Users/LIUDUO/iOS/PodTestDemo/PodTestClient/PodTestClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429731987.009619
+e429731987.120335
+r1
+xCompileC
+xBuild/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.o
+x/Users/LIUDUO/iOS/PodTestDemo/PodTestClient/PodTestClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LIUDUO/iOS/PodTestDemo/PodTestClient/PodTestClient.m
+d/Users/LIUDUO/iOS/PodTestDemo/PodTestClient/PodTestClient.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/LIUDUO/iOS/PodTestDemo/PodTestClient/PodTestClient.m224"CompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.o PodTestClient/PodTestClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbc940293309db941^ddce1e93309db941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/LIUDUO/iOS/PodTestDemo/PodTestClient/PodTestClient.m0000000000000000^3706"CompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.o PodTestClient/PodTestClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LIUDUO/iOS/PodTestDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LIUDUO/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-generated-files.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-own-target-headers.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-all-target-headers.hmap -iquote /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-project-headers.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/DerivedSources/i386 -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/DerivedSources -F/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator -include /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch -MMD -MT dependencies -MF /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.d --serialize-diagnostics /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.dia -c /Users/LIUDUO/iOS/PodTestDemo/PodTestClient/PodTestClient.m -o /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.o36"F47A9364-CC4D-4EFA-9B76-784B07E10855-
+bD56FBCA3-449F-4A4F-B66D-F53FEE0EE50E
+
+CCompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/main.o /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429731987.010326
+e429731987.120014
+r1
+xCompileC
+xBuild/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/main.o
+x/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/main.m
+d/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/main.m204"CompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/main.o PodTestDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler08cd0293309db941^7cba1e93309db941^---0#0#1#-19%DVTDocumentLocation2@55"file:///Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/main.m0000000000000000^3648"CompileC Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/main.o PodTestDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LIUDUO/iOS/PodTestDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LIUDUO/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-generated-files.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-own-target-headers.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-all-target-headers.hmap -iquote /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-project-headers.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/DerivedSources/i386 -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/DerivedSources -F/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator -include /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch -MMD -MT dependencies -MF /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/main.dia -c /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/main.m -o /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/main.o36"23BDFB24-3320-46F4-B537-B2A7EBF2003A-
+bD56FBCA3-449F-4A4F-B66D-F53FEE0EE50E
+
+CCopyStringsFile /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/en.lproj/InfoPlist.strings PodTestDemo/en.lproj/InfoPlist.strings
+s429731987.356702
+e429731987.359143
+r1
+xCopyStringsFile
+x/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/en.lproj/InfoPlist.strings
+xPodTestDemo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy PodTestDemo/en.lproj/InfoPlist.strings136"CopyStringsFile Build/Products/Debug-iphonesimulator/PodTestClient.app/en.lproj/InfoPlist.strings PodTestDemo/en.lproj/InfoPlist.strings30625b93309db941^20f15b93309db941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/en.lproj/InfoPlist.strings0000000000000000^595"CopyStringsFile Build/Products/Debug-iphonesimulator/PodTestClient.app/en.lproj/InfoPlist.strings PodTestDemo/en.lproj/InfoPlist.strings    cd /Users/LIUDUO/iOS/PodTestDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/en.lproj -- PodTestDemo/en.lproj/InfoPlist.strings36"814BEEA4-C3E5-4D63-8AB1-E0A50294C369-
+bD56FBCA3-449F-4A4F-B66D-F53FEE0EE50E
+
+CGenerateDSYMFile /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app.dSYM /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient
+s429731989.058663
+e429731989.088340
+r1
+xGenerateDSYMFile
+x/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app.dSYM
+x/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Generate /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app.dSYM145"GenerateDSYMFile Build/Products/Debug-iphonesimulator/PodTestClient.app.dSYM Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClientf9150f95309db941^2c9e1695309db941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app.dSYM0034c85edeffdf42^670"GenerateDSYMFile Build/Products/Debug-iphonesimulator/PodTestClient.app.dSYM Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient    cd /Users/LIUDUO/iOS/PodTestDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient -o /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app.dSYM36"92867AA9-64B4-4600-93A7-FA9642180841-
+bD56FBCA3-449F-4A4F-B66D-F53FEE0EE50E
+
+CLd /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient normal i386
+s429731987.138596
+e429731987.355828
+r1
+xLd
+x/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient
+xnormal
+xi386
+d/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.o
+d/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/AppDelegate.o
+d/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient83"Ld Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient normal i38698a32393309db941^ec185b93309db941^---0#0#1#--1395"Ld Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient normal i386    cd /Users/LIUDUO/iOS/PodTestDemo    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator -F/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator -filelist /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/Objects-normal/i386/PodTestClient_dependency_info.dat -o /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PodTestClient36"92349CAA-43E6-4547-9686-AA234B5C2268-
+bD56FBCA3-449F-4A4F-B66D-F53FEE0EE50E
+
+CProcessInfoPlistFile /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/Info.plist /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/PodTestClient-Info.plist
+s429731989.055915
+e429731989.058082
+r1
+xProcessInfoPlistFile
+x/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/Info.plist
+x/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/PodTestClient-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Process /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/PodTestClient-Info.plist123"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/PodTestClient.app/Info.plist PodTestDemo/PodTestClient-Info.plist89620e95309db941^0ddf0e95309db941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/PodTestClient-Info.plist0000000000000000^887"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/PodTestClient.app/Info.plist PodTestDemo/PodTestClient-Info.plist    cd /Users/LIUDUO/iOS/PodTestDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/PodTestClient-Info.plist -genpkginfo /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/assetcatalog_generated_info.plist -o /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app/Info.plist36"D59253C9-FE4A-4CFF-9894-EEEC7FC0DD5B-
+bD56FBCA3-449F-4A4F-B66D-F53FEE0EE50E
+
+CProcessPCH /Users/LIUDUO/Library/Developer/Xcode/DerivedData/PodTestClient-edregvlkcgivxzcgyjlqzifioerp/Index/PrecompiledHeaders/PodTestClient-Prefix-ccmqdqkoaizkjlfgsfjozimqmtgl_ast/PodTestClient-Prefix.pch.pch PodTestDemo/PodTestClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch.pch PodTestDemo/PodTestClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429731986.829503
+e429731987.008862
+r1
+xProcessPCH
+x/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch.pch
+xPodTestDemo/PodTestClient-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/PodTestClient-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile PodTestDemo/PodTestClient-Prefix.pch233"ProcessPCH Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch.pch PodTestDemo/PodTestClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler218fd492309db941^02470293309db941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/PodTestClient-Prefix.pch0000000000000000^3572"ProcessPCH Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch.pch PodTestDemo/PodTestClient-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LIUDUO/iOS/PodTestDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LIUDUO/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-generated-files.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-own-target-headers.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-all-target-headers.hmap -iquote /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/PodTestClient-project-headers.hmap -I/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/DerivedSources/i386 -I/Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PodTestClient.build/Debug-iphonesimulator/PodTestClient.build/DerivedSources -F/Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch.dia -MMD -MT dependencies -MF /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch.d -c /Users/LIUDUO/iOS/PodTestDemo/PodTestDemo/PodTestClient-Prefix.pch -o /Users/LIUDUO/iOS/PodTestDemo/Build/Intermediates/PrecompiledHeaders/PodTestClient-Prefix-byfwblasiizbnbdhadffhgpucnyd/PodTestClient-Prefix.pch.pch36"DFB7E4C9-8A79-4520-9B88-0165026B30FB-
+bD56FBCA3-449F-4A4F-B66D-F53FEE0EE50E
+
+CTouch /Users/LIUDUO/iOS/PodTestDemo/Build/Products/Debug-iphonesimulator/PodTestClient.app
+r0
+
